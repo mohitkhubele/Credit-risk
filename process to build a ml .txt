@@ -1,0 +1,34 @@
+.import data from the given link
+.import that data in msexcel
+.check the dimention of the data 1000rows and 21column
+.rename the column name 
+.save data into csv fromat
+.import that data into r studios
+.first check head and tail of the data
+.summary and structure of the data
+.finding missing value
+.convert the variable into a proper factor or numeric
+.check class inbalance
+.applying model with tunning
+-Logistic regression model
+-do step aic in logistic and set thresold value(0.5)
+-predict on train and test and get confusion matrix and statistics of model
+-Naivebayes model
+-predict on train and test and get confusion matrix and statistics of model
+-k-fold cross validation with cart
+-predict on train and test and get confusion matrix and statistics of model
+-Descion Tree model
+-build a tree
+-predict on train and test and get confusion matrix and statistics of model
+-Random forest
+--predict on train and test and get confusion matrix and statistics of model
+-tunning of random forest
+--again build a model and get test and train prediction to analyse with confusion matrix
+-SVM model
+-predict on train and test and get confusion matrix and statistics of model
+-Ada boosting method
+-predict on train and test and get confusion matrix and statistics of model
+
+
+------best model is random forest giving 98 accuracy in train and test 77 slightly overfitting--------
+
